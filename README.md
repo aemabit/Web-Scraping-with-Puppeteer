@@ -1,4 +1,4 @@
-# WEB SCRAPPING WITH PUPPETEER
+# WEB SCRAPING WITH PUPPETEER
 ![screenshot-by:puppeteer](screenshots/GeneratedRepo.png)
 
 ## Description
